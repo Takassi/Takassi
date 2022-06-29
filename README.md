@@ -1,6 +1,6 @@
 ### Olá! Eu sou Euclydes Takassi
 
-- 🌱  Estudante: Blockchain, Criptgrafia e Finanças 
+- 🌱  Estudante: Blockchain, Criptografia e Finanças 
 -   
 
 <div align="center">
